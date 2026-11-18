@@ -23,11 +23,11 @@
     <key>CFBundleIconFile</key>
     <string></string>
     <key>CFBundleIdentifier</key>
-    <string>audio.vial.synth</string>
+    <string>com.siwo.synthpro</string>
     <key>CFBundleName</key>
-    <string>Vial</string>
+    <string>Siwo Synth Pro</string>
     <key>CFBundleDisplayName</key>
-    <string>Vial</string>
+    <string>Siwo Synth Pro</string>
     <key>CFBundlePackageType</key>
     <string>BNDL</string>
     <key>CFBundleSignature</key>
